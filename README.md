@@ -51,18 +51,18 @@ Lynda - Ruby Essential Training, Kevin Skoglund.
 
 #### University of Western Sydney, Australia. (2003 to 2006)
 
--Major in History, Politics and Philosophy.
+-Major in History, Politics and Philosophy.  
 -Minor in English.
 
 ## Experience
 
-**Dave's English Coaching** - Nice, France (2014 to 2016)
-*English coach*
-**Nkids** - Icheon, South Korea (2010 to 2011)
-*English teacher*
-**Dawson Group** - Parma, Italy (2008 to 2009)
-*English teacher*
-**NOVA Corp** - Osaka, Japan (2007)
+**Dave's English Coaching** - Nice, France (2014 to 2016)  
+*English coach*  
+**Nkids** - Icheon, South Korea (2010 to 2011)  
+*English teacher*  
+**Dawson Group** - Parma, Italy (2008 to 2009)  
+*English teacher*  
+**NOVA Corp** - Osaka, Japan (2007)  
 *English teacher*
 
 
