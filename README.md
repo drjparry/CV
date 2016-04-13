@@ -39,7 +39,7 @@ I love business and can empathise with the management, client and programmer per
 
 A full-time intensive coding boot camp.
 
-Core course focuses: Pair Programming, Object Orientated Programming, Test Driven Development, SOLID Principles, MV*, Software Craftsmanship.
+Core course focuses: Pair Programming, Object Orientated Programming, Test Driven Development, SOLID Principles, MV*, Software Craftsmanship.  
 Languages and frameworks used: Ruby, Rails, JavaScript, AngularJS.
 Testing Frameworks: Rspec, Jasmine, Capybara, Protractor.
 Databases: Postresql
