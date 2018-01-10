@@ -6,9 +6,9 @@ Full-stack web developer specializing in Ruby/Rails and React/Redux. I write pra
 
 ## Experience 
 
-### Trusted Family (May 2016 - Current)
+### Younited/Trusted Family (May 2016 - Current)
 
-I work on our worldwide platform and am involved in all aspects of the development process from initial ideas and scoping, to UX design and architecture, to building, testing, and deployment.
+Worldwide platform for board, shareholder and family communications. As part of a small core team, I am involved in all aspects of the development process from initial ideas and scoping, to UX design and architecture, to building, testing, and deployment.
 
 ## Education
 
